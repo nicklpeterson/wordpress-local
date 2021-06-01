@@ -8,7 +8,7 @@ Run wordpress locally in a docker container for development.
 
 #### Set Up Wordpress
 
-Navigate to `localhost:8000` or your configured port and set up the wordpress site. Congrats you know have a wordpress dev backend.
+Navigate to `127.0.0.3:80` or your configured port and set up the wordpress site. Congrats you now have a wordpress dev backend!
 
 #### Tear Down Containers (keep database)
 
